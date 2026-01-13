@@ -102,13 +102,13 @@ export function Hero() {
             >
               <Link to="/pricing">
                 <Button variant="hero" size="xl" className="group w-full sm:w-auto min-w-[200px]">
-                  Start Free Trial
+                 Login
                   <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
                 </Button>
               </Link>
               <Button variant="heroOutline" size="xl" className="group w-full sm:w-auto min-w-[180px]">
-                <Play className="w-4 h-4" />
-                Watch Demo
+                
+                Sign up
               </Button>
             </motion.div>
 
